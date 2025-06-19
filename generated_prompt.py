@@ -42,4 +42,4 @@ def prompt_template(data: str, num_records: int = 5):
 
 
 if __name__ == "__main__":
-    print(prompt_template("nicholas renotte", 10))
+    print(prompt_template("zsa1233", 10))
