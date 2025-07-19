@@ -20,5 +20,3 @@ Project Structure:
 - Main scripts: before.py, generated_prompt.py, preprocessing.py, syntheticdatageneration.py, train.py
 - pyproject.toml: Project dependencies and configuration
 
-License:
-For educational and research use.
